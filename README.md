@@ -1,3 +1,7 @@
+# HackDuke 2022 Emotion Expression Classifier for Autism 
+
+## Won first place in education track.
+
 ## Inspiration
 Individuals with autism often struggle with alexithymia, which is characterized by difficulty in understanding one's own emotional state and can lead to a lack of empathy while interacting with others in society. This introduces a need for developmental curricula to aid in strengthening associations between emotions and various stimuli.
 
